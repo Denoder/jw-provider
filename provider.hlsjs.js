@@ -1,5 +1,5 @@
 /*!
-   JW Player version 8.26.0
+   JW Player version 8.26.x
    Copyright (c) 2022, JW Player, All Rights Reserved
    This source code and its use and distribution is subject to the terms
    and conditions of the applicable license agreement.
